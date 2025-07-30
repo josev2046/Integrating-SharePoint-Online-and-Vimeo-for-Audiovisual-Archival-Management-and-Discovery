@@ -75,7 +75,7 @@ For fellow archivists, consider this: Federated search acts as your **universal 
 <img width="965" height="440" alt="image" src="https://github.com/user-attachments/assets/707df767-ba2d-443a-8472-e76b0beea64c" />
 
 
-Here's a great example from my mate Dane for a renowned brand:
+Here's a great example from my mate **[Dane](https://www.linkedin.com/in/danehagemann/)** for a renowned brand:
 
 [Dane's Example: Federated Search for Walmart](https://www.danesdomain.net/walmart)
 
