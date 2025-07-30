@@ -53,3 +53,37 @@ SharePointSite --> Content : "Permissions apply to"
 note bottom of SharePointSite: Permissions can be inherited\nor set uniquely for sub-elements. note left of AzureAD: Central source of user identities.
 
 @enduml
+
+
+UML Manifest #4:
+
+
+@startuml
+
+actor "Archivist/Researcher" as User
+
+rectangle "Archival Ecosystem" {
+    cloud "SharePoint Online" as SP <<Metadata & Textual Content>>
+    cloud "Vimeo" as Vimeo <<Audiovisual Content>>
+    component "Federated Search Portal" as FedSearch
+}
+
+User -down-> FedSearch : "Submit Search Query"
+
+FedSearch -right-> SP : "Query SharePoint Index"
+SP -left-> FedSearch : "Return Textual/Metadata Results"
+
+FedSearch -down-> Vimeo : "Query Vimeo API"
+Vimeo -up-> FedSearch : "Return Audiovisual Results"
+
+FedSearch -up-> User : "Display Unified Results"
+
+SP .r.> Vimeo : "Metadata Links to AV Content"
+
+note right of FedSearch
+  Provides a single point of
+  discovery across disparate
+  archival repositories.
+end note
+
+@enduml
