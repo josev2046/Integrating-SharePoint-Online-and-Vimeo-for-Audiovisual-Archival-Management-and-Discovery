@@ -19,7 +19,7 @@ This schematic details the fundamental structural hierarchy of SharePoint Online
 
 ---
 
-## SharePoint Permissions: user management & access control
+## SharePoint permissions: user management & access control
 
 This diagram conveys the basic principles of user management via Azure Active Directory and how permissions operate within SharePoint, encompassing roles and the concept of inheritance.
 
@@ -27,7 +27,7 @@ This diagram conveys the basic principles of user management via Azure Active Di
 
 ---
 
-## Audiovisual Archives: The SharePoint challenge
+## Audiovisual archives: the SharePoint challenge
 
 Managing audiovisual (AV) archival materials within the broader Microsoft 365 ecosystem presents unique challenges. While SharePoint Online excels as a repository for textual documents and structured data, it has limitations regarding the highly specialized demands of AV archives:
 
