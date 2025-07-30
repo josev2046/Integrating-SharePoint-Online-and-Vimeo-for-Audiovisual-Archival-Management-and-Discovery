@@ -1,3 +1,7 @@
+As a means of shortcut for fellow archivists:
+
+Microsoft 365 functions as an integrated digital toolkit, facilitating seamless collaboration and communication through applications such as **Exchange Online**, **Teams**, **OneDrive**, and **SharePoint Online**, all operating in unison as a virtual office environment. **SharePoint Online**, serving as the central collaborative platform, offers a web-based infrastructure for document management and team-based work, organised into a structured hierarchy of site collections, individual sites, and hub sites, containing lists for structured data and libraries for document storage. Access control within this framework is managed by **SharePoint Permissions** and **Azure Active Directory**, with **Azure AD** overseeing user authentication. SharePoint employs distinct **roles—Owners**, **Members**, and **Visitors—with permissions** capable of being inherited down the hierarchy or uniquely assigned to specific sites or documents, thereby ensuring precise access management, much like a meticulous archivist safeguarding invaluable records.
+
 ### Microsoft 365 as an integrated suite ##
 
 This diagram conceptualises Microsoft 365 as an integrated suite, highlighting its core services and their interconnectedness to facilitate collaboration and communication:
