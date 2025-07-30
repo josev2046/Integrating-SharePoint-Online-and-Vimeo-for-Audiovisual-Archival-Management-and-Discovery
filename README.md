@@ -64,7 +64,7 @@ Here's how this integration works in practice:
 
 ---
 
-## Federated Search: The unified discovery portal
+## Federated Search: the unified discovery portal
 
 While Microsoft 365 and Vimeo offer robust content management, the user experience can become fragmented, requiring separate searches. This is where **federated search** proves invaluable.
 
