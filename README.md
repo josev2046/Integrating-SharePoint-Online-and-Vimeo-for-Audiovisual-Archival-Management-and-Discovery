@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16620810.svg)](https://doi.org/10.5281/zenodo.16620810)
+
 As a means of shortcut for fellow archivists:
 
 Microsoft 365 serves as a comprehensive digital toolkit, fostering seamless collaboration and communication. It integrates applications such as **Exchange Online**, **Teams**, **OneDrive**, and **SharePoint Online**, functioning as a unified virtual office. **SharePoint Online**, a web-based platform, forms the central hub for document management and teamwork. It's structured hierarchically with **site collections**, individual **sites**, and **hub sites**, containing both **lists** for structured data and **libraries** for document storage. Access is precisely managed via **SharePoint Permissions** and **Azure Active Directory** (**Azure AD**), which oversees user authentication. Distinct **roles**—**Owners**, **Members**, and **Visitors**—govern access, with permissions capable of being inherited or uniquely assigned, akin to a meticulous archivist safeguarding invaluable records.
