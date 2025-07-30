@@ -72,7 +72,8 @@ While Microsoft 365 and Vimeo offer robust content management, the user experien
 
 For fellow archivists, consider this: Federated search acts as your **universal finding aid or "master catalog."** It enables researchers to submit a single query and receive relevant results from *all* connected repositories, irrespective of whether the primary item resides in SharePoint, Vimeo, or other archival systems.
 
-<img width="966" height="402" alt="image" src="https://github.com/user-attachments/assets/ee710cb1-fb85-4fc0-b322-51df210b39b5" />
+<img width="965" height="440" alt="image" src="https://github.com/user-attachments/assets/707df767-ba2d-443a-8472-e76b0beea64c" />
+
 
 Here's a great example from my mate Dane for a renowned brand:
 
