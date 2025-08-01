@@ -1,7 +1,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16620810.svg)](https://doi.org/10.5281/zenodo.16620810)
 
-As means of a practical shortcut for fellow archivists:
+> 
+> As means of a practical shortcut for fellow archivists: Vimeo provides the indispensable specialised capability for managing and delivering audiovisual content, thereby complementing SharePoint Online's core strength in general document management. This forms a strategic partnership for establishing robust intellectual control and ensuring effective public access. Federated search then emerges as the indispensable overarching mechanism, consolidating seamless discovery across these distinct, yet profoundly complementary, platforms.
+
 
 Microsoft 365 offers a comprehensive digital toolkit, designed to foster effortless collaboration and communication. It adeptly integrates key applications such as **Exchange Online**, **Teams**, **OneDrive**, and **SharePoint Online**, functioning as a truly unified virtual office. Within this suite, **SharePoint Online** serves as the central, web-based platform for managing documents and facilitating teamwork. It's structured intuitively hierarchically, comprising distinct **site collections**, individual **sites**, and overarching **hub sites**, each capable of housing both **lists** for structured data and **libraries** for document storage. Access is meticulously governed by **SharePoint Permissions** and **Azure Active Directory** (**Azure AD**), which expertly oversees user authentication. Specific **roles**—**Owners**, **Members**, and **Visitors**—precisely control access, with permissions capable of being inherited or uniquely assigned, much like a diligent archivist meticulously safeguarding invaluable records.
 
@@ -84,6 +86,8 @@ And here's how federated search integrates seamlessly with your existing setup:
 * **Implementation considerations (advanced)**:
     * **Microsoft Search federation**: Microsoft 365's native search capabilities are continuously evolving to incorporate connectors for external content. This holds the potential for providing native federation with Vimeo's API or other external repositories. However, achieving truly comprehensive, enterprise-grade federation often necessitates the development of custom connectors or the deployment of a dedicated enterprise search platform, extending beyond out-of-the-box Microsoft Search functionalities.
     * **Custom search portals**: For archival requirements of greater complexity, a bespoke federated search portal (e.g., implemented using open-source solutions or specialised enterprise search platforms) could be developed. Such a portal would seamlessly integrate with Microsoft 365's Graph API, Vimeo's API, and other pertinent archival management systems.
+ 
+Hope this helps.
 
 
-In essence, for archivists, Vimeo certainly does provide the indispensable specialised capability for managing and delivering audiovisual content, thereby complementing SharePoint Online's core strength in general document management. This forms a strategic partnership for establishing robust intellectual control and ensuring effective public access. **Federated search then emerges as the indispensable overarching mechanism, consolidating seamless discovery across these distinct, yet profoundly complementary, platforms.**
+
